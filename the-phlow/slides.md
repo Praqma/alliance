@@ -34,13 +34,46 @@ Release strategies<br/><!-- .element class="fragment" -->
 
 >>>>NEWSLIDE
 
+### Install
+```shell
+brew tap praqma/praqma-tap
+brew install git-phlow
+git phlow auth
+git phlow mkalias
+```
+
+<div>
+### Use
+```shell
+ghi open -m "Some new issues - I'd like to work on"
+git workon 1
+git wrapup --hard
+git deliver --local
+```
+</div><!-- .element class="fragment" -->
+
+<div>
+workon - wrapup -deliver - workon - wrapup - deliver - workon - wrapup - deliver
+</div><!-- .element class="fragment" -->
+
+
+>>>>NEWSLIDE
+
 ## As a product owner
 
 **I want**<br> every single commit to happen for a documented reason, and that reason should be tied to the the commit
 
 **So that**<br> When I need an overview I can just browse the commit history
 
+>>>>NEWSLIDE
+
+### Nice!
+
+[![commits](res/commits.png)<!-- .element class="plain max" -->](https://github.com/Praqma/praqma.com/commits/gh-pages?after=4c2b41b0ed7e8233bd0e8d097dfdca20e46c6f50+245)<!-- .element target="_blank" -->
+
 >>>>NEWSECTION
+
+
 ## Solution?
 
 ![CoDe factory floor](../shared/img/code-story.bare.png)<!-- .element: class="plain max" -->
@@ -89,7 +122,7 @@ Concourse
 
 Outline (Issues, repo, Waffle)
 
-Demo 
+Demo
 
 >>>>NEWSLIDE
 
