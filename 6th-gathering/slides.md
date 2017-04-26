@@ -158,6 +158,14 @@ Timea
 
 <div>
   <div>
+  ### Let it off your chest<!-- .element:  style="color:red;"-->
+  What are your challenges?<br/>
+  What are you proud of?<br/>
+  Your attitude to Open Source?<br/>
+  Expectations to our gathering?
+  </div><!-- .element: class="fragment names left"  style="color:red;size:85%;"-->
+
+  <div>
   ### MAN D & T
   Carsten<br/>
   Niels Khristian<br/>
@@ -165,7 +173,7 @@ Timea
   Anders<br/>
   &nbsp;<br/>
   &nbsp;
-  </div><!-- .element: class="fragment names left"  -->
+  </div><!-- .element: class="fragment names left"-->
 
   <div>
   ### Napatech
