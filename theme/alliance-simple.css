@@ -107,6 +107,11 @@ body {
   font-size: 0.7em;
 }
 
+.reveal .twocol {
+  float: left;
+  width: 50%;
+}
+
 
 .reveal a img {
   -webkit-transition: all .15s linear;
