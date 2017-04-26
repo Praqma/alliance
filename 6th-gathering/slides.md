@@ -42,73 +42,29 @@ You all still remember why we're here - right?<br/> ...to optimize the factory f
 
 <div>
 ### Praqma
+Jasmine<br/>
 Andrey<br/>
 Bosse<br/>
 Bue<br/>
-Hans<br/>
+Claus<br/>
 Jan<br/>
 Johan<br/>
+Leif<br/>
 Lars<br/>
-Mads B.<br/>
-Mads N.<br/>
-Martin<br/>
+Mike<br/>
+Mads<br/>
 Sofus<br/>
-Thierry
+Timea
 </div><!-- .element: class="names left"  -->
 
 <div>
   <div>
-  ### Grundfos
-  Flemming<br/>
-  Gert<br/>
-  Rasmus<br/>
-  Ole
-  </div><!-- .element: class="fragment names left"  -->
-
-  <div>
-  ### Danfoss
-  Jan<br/>
-  Knud<br/>
-  Lecitia<br/>
-  Marcus
-  </div><!-- .element: class="fragment names left"  -->
-
-  <div>
   ### MAN D & T
   Carsten<br/>
-  Niels Christian<br/>
-  Janne<br/>
-  &nbsp;
-  </div><!-- .element: class="fragment names left"  -->
-
-  <div>
-  ### Kamstrup
-  Dan<br/>
-  Michael<br/>
-  ???<br/>
-  &nbsp;
-  </div><!-- .element: class="fragment names left"  -->
-
-  <div>
-  ### Volvo
+  Niels Khristian<br/>
+  Kenneth<br/>
   Anders<br/>
   &nbsp;<br/>
-  &nbsp;
-  </div><!-- .element: class="fragment names left"  -->
-
-  <div>
-  <div>
-  ### Siemens WP
-  Bert<br/>
-  Søren<br/>
-  &nbsp;<br/>
-  &nbsp;
-  </div><!-- .element: class="fragment names left"  -->
-
-  <div>
-  ### BK Ultrasound
-  Niklas<br/>
-  Tommy<br/>
   &nbsp;
   </div><!-- .element: class="fragment names left"  -->
 
@@ -116,16 +72,67 @@ Thierry
   ### Napatech
   Dennis<br/>
   Rasmus<br/>
+  Jesper</br>
+  &nbsp;<br/>
+  &nbsp;<br/>
   &nbsp;
   </div><!-- .element: class="fragment names left"  -->
 
   <div>
-  ### Politiet
-  Michael<br/>
-  Claus<br/>
+  ### Kamstrup
+  Dan<br/>
+  Maria<br/>
+  Bo<br/>
+  &nbsp;<br/>
+  &nbsp;<br/>
   &nbsp;
   </div><!-- .element: class="fragment names left"  -->
 
+
+  <div>
+  ### Grundfos
+  Flemming<br/>
+  Rasmus<br/>
+  &nbsp;<br/>
+  &nbsp;<br/>
+  &nbsp;<br/>
+  &nbsp;
+  </div><!-- .element: class="fragment names left"  -->
+
+
+  <div>
+  ### Skat
+  Jan<br/>
+  &nbsp;<br/>
+  &nbsp;<br/>
+  &nbsp;<br/>
+  &nbsp;<br/>
+  &nbsp;
+  </div><!-- .element: class="fragment names left"  -->
+
+  <div>
+  ### Volvo
+  Samuel<br/>
+  &nbsp;<br/>
+  &nbsp;<br/>
+  &nbsp;
+  </div><!-- .element: class="fragment names left"  -->
+
+  <div>
+  ### Siemens WP
+  Søren<br/>
+  &nbsp;<br/>
+  &nbsp;<br/>
+  &nbsp;
+  </div><!-- .element: class="fragment names left"  -->
+
+  <div>
+  ### Gul og Gratis
+  Brian<br/>
+  &nbsp;<br/>
+  &nbsp;<br/>
+  &nbsp;
+  </div><!-- .element: class="fragment names left"  -->
 
 </div><!-- .element: style="width:100%" -->
 
