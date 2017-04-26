@@ -37,8 +37,107 @@ You all still remember why we're here - right?<br/> ...to optimize the factory f
 
 [![Program](res/6th-gathering.png)<!-- .element class="plain max"-->](http://www.code-conf.com/code-alliance-sixth/)<!-- .element target="_blank" -->
 
+>>>>NEWSECTION
+
+## State of the Alliance
+
+![logo](../images/code-all.png)<!-- .element: class="plain  medium" -->
+
+How we work! What’s new? What has changed?
+
+[Slack](http://josra.slack.com)<!-- .element target="_blank" -->
+
+[GitHub Repositories](https://github.com/Praqma?utf8=✓&q=&type=public)<!-- .element target="_blank" -->
+
 >>>>NEWSLIDE
 
+## How We Work
+
+Get an idea<br/><!--  .element class="fragment"  -->
+
+Describe it<br/><!-- .element class="fragment" -->
+
+Evolve it<br/><!-- .element class="fragment" -->
+
+Distill it<br/><!-- .element class="fragment" -->
+
+Fund it<br/><!-- .element class="fragment" -->
+
+Create it<br/><!-- .element class="fragment" -->
+
+Deliver it<br/><!-- .element class="fragment" -->
+
+Note:
+
+This approach is really simple - and it's a recap on the 5th gathering presentation.
+
+The gatherings are really focusing on the first two bullets
+
+Ideas come from multiple sources, but always for the same cause:
+
+"Someone identified a genuine problem, that can be solved with software"
+
+The first description of an idea is usually captured as an issue in a GitHub repository
+
+Everyone has access to contribute to the GitHub repositories, and that is how it evolves.
+
+>>>>NEWSLIDE
+
+## How We Work
+
+<div class="left" style="width:45%;font-size:0.7em;padding-left:60px;">
+
+  [![milestones](res/labels.png)<!-- .element class="plain medium left" -->](http://www.praqma.com/stories/milestones-and-officehours/)<!-- .element target="_blank" -->
+
+  [praqma.com/stories/milestones-and-officehours](http://www.praqma.com/stories/milestones-and-officehours/)<!-- .element target="_blank" -->
+</div>
+
+<div class="left" style="width:45%;font-size:0.7em;">
+  [![the phlow](res/workflow_in_git_4x3.png)<!-- .element class="plain medium left" -->](http://www.praqma.com/stories/a-pragmatic-workflow/)<!-- .element target="_blank" -->
+
+  [praqma.com/stories/a-pragmatic-workflow](http://www.praqma.com/stories/a-pragmatic-workflow/)<!-- .element target="_blank" -->
+</div>
+
+
+>>>>NEWSECTION
+
+## State of the Alliance
+
+![logo](../images/code-all.png)<!-- .element: class="plain  medium" -->
+
+Status on backlog, pipeline and roadmaps.
+
+>>>>NEWSLIDE
+
+## Progress since last
+
+__The Phlow__ <!-- .element class="fragment" -->
+
+__Pretested Integration Plugin__<!-- .element class="fragment" -->
+
+__2git__<!-- .element class="fragment" -->
+
+>>>>NEWSLIDE
+
+![Praqma](res/praqma.png)<!-- .element class="plain large" -->
+
+<div>**Organization and funding**
+
+PraqmaPlex
+
+Interns
+
+Skattefunn</div><!-- .element class="fragment twocol " -->
+
+<div>**New (added) focus**
+
+**Ops**<br/> _Infrastructure as Code_
+
+**Test**<br/> _Compliance as Code_ <br/> _visibility_ - _tracability_ - _execution_</div><!-- .element class="fragment twocol " -->
+
+>>>>NEWSLIDE
+
+## The Alliance
 
 <div>
 ### Praqma
@@ -144,105 +243,24 @@ The Code Alliance is a means for that - that's why we prioritize to send so many
 
 >>>>NEWSECTION
 
-## State of the Alliance
-
-![logo](../images/code-all.png)<!-- .element: class="plain  medium" -->
-
-How we work! What’s new? What has changed?
-
-[Slack](http://josra.slack.com)<!-- .element target="_blank" -->
-
-[GitHub Repositories](https://github.com/Praqma?utf8=✓&q=&type=public)<!-- .element target="_blank" -->
-
->>>>NEWSLIDE
-
-## How We Work
-
-Get an idea<br/><!--  .element class="fragment"  -->
-
-Describe it<br/><!-- .element class="fragment" -->
-
-Evolve it<br/><!-- .element class="fragment" -->
-
-Distill it<br/><!-- .element class="fragment" -->
-
-Fund it<br/><!-- .element class="fragment" -->
-
-Create it<br/><!-- .element class="fragment" -->
-
-Deliver it<br/><!-- .element class="fragment" -->
-
-Note:
-
-This approach is really simple - and it's a recap on the 5th gathering presentation.
-
-The gatherings are really focusing on the first two bullets
-
-Ideas come from multiple sources, but always for the same cause:
-
-"Someone identified a genuine problem, that can be solved with software"
-
-The first description of an idea is usually captured as an issue in a GitHub repository
-
-Everyone has access to contribute to the GitHub repositories, and that is how it evolves.
-
->>>>NEWSLIDE
-
-## How We Work
-
-<div class="left" style="width:45%;font-size:0.7em;padding-left:60px;">
-
-  [![milestones](res/labels.png)<!-- .element class="plain medium left" -->](http://www.praqma.com/stories/milestones-and-officehours/)<!-- .element target="_blank" -->
-
-  [praqma.com/stories/milestones-and-officehours](http://www.praqma.com/stories/milestones-and-officehours/)<!-- .element target="_blank" -->
-</div>
-
-<div class="left" style="width:45%;font-size:0.7em;">
-  [![the phlow](res/workflow_in_git_4x3.png)<!-- .element class="plain medium left" -->](http://www.praqma.com/stories/a-pragmatic-workflow/)<!-- .element target="_blank" -->
-
-  [praqma.com/stories/a-pragmatic-workflow](http://www.praqma.com/stories/a-pragmatic-workflow/)<!-- .element target="_blank" -->
-</div>
-
-
->>>>NEWSECTION
-
-## State of the Alliance
-
-![logo](../images/code-all.png)<!-- .element: class="plain  medium" -->
-
-Status on backlog, pipeline and roadmaps.
-
->>>>NEWSLIDE
-
-## Progress since last
-
-__The Phlow__ <!-- .element class="fragment" -->
-
-__Pretested Integration Plugin__<!-- .element class="fragment" -->
-
-__2git__<!-- .element class="fragment" -->
-
->>>>NEWSECTION
-
-![Praqma](res/praqma.png)<!-- .element class="plain large" -->
-
-<div>**Organization and funding**
-
-PraqmaPlex
-
-Interns
-
-Skattefunn</div><!-- .element class="fragment twocol " -->
-
-<div>**New (added) focus**
-
-**Ops**<br/> _Infrastructure as Code_
-
-**Test**<br/> _Compliance as Code_ <br/> _visibility_ - _tracability_ - _execution_</div><!-- .element class="fragment twocol " -->
-
->>>>NEWSECTION
-
 ## MAN Diesel & Turbo
+
+>>>>NEWSLIDE
+
+## [The Phlow](../the-phlow)<!-- .element target="_blank" -->
+
+>>>>NEWSECTION
+
+## Talks
+
+Pretested Integration Plugin
+
+FPGA - Pipeline Challenges
+
+Quticon
+
+Automated Infrastructure and Tracey<br/>
+_Skattefunn project_
 
 >>>>NEWSECTION
 
@@ -250,9 +268,13 @@ Skattefunn</div><!-- .element class="fragment twocol " -->
 
 >>>>NEWSECTION
 
-## Wrap up
+## Capture
 
->>>>NEWSLIDE
+Action Points
+
+Constitute working groups
+
+>>>>NEWSECTION
 
 [![Warpigs](res/warpigs.png)<!-- .element: class="plain  medium" -->](http://http://warpigs.dk/)<!-- .element target="_blank" -->
 
