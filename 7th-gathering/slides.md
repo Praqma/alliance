@@ -80,7 +80,7 @@ Deliver it<br/><!-- .element class="fragment" -->
 
 Note:
 
-This approach is really simple - and it's a recap on the 5th gathering presentation.
+This approach is really simple - and it's a recap from last many gatherings.
 
 The gatherings are really focusing on the first two bullets
 
@@ -110,6 +110,11 @@ Everyone has access to contribute to the GitHub repositories, and that is how it
 </div>
 
 
+Note:
+
+This is what our Git Phlow is also focussing around. We try to work this way in Praqma.
+
+
 >>>>NEWSECTION
 
 ## State of the Alliance
@@ -133,6 +138,13 @@ __Managed DevOps offering Mission Control and Orbit__<!-- .element class="fragme
 __Upcoming new small tools like PlusBump, Emily's git viz tool__<!-- .element class="fragment" -->
 
 __New alliance mini site [http://alliance.praqma.com](http://alliance.praqma.com)__<!-- .element class="fragment" -->
+
+Note:
+
+Respect and street creds to Kamstrup for funding our Git Phlow changes and the upcoming release of the Jenkins plugin.
+
+Per Arnold from Microchip, formerly known as Atmel was the initial founding father, so one more time it actually achieved to build and stand of the shoulders of each others.
+
 
 >>>>NEWSLIDE
 
@@ -253,8 +265,7 @@ Samuel
 Note:
 
 In Praqma we strive to practice the _buy a man - get a team_ approach with every customer. Consequently, every customer should ideally know more Praqma employees than just the usual suspects that helps them on a daily basis.
-
-The Code Alliance is a means for that - that's why we prioritize to send so many of our own people
+So today we're quite many, and you have the change to talk to us and meet us in presentations, workshops etc.
 
 >>>>NEWSECTION
 
@@ -273,6 +284,12 @@ The Code Alliance is a means for that - that's why we prioritize to send so many
 
 
 (and more ... PlusBump, Measuring CI, Custom Bill of Materials - Gradle plugin, Orbit - Managed Ops, ASK - Atlassian Software in Kubernetes, Questionnaire)
+
+Note:
+
+We see it more like an un-conference, so beside the 3 above Code Alliance progress talks, we have lots of other ready ... and this is also now the time where you can suggest yours!
+
+What do you want? Speak up.
 
 
 >>>>NEWSECTION
