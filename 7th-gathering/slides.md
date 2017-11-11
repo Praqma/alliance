@@ -37,10 +37,10 @@ You all still remember why we're here - right?<br/> ...to optimize the factory f
 
 **Traceability as a theme!**
 
-Two days
+Two days unconference!
 
-* State of the Alliance, ligthening talks and demos, break out sessions
-* Room for much more and traceability!
+* State of the Alliance, lightening talks and demos, break out sessions
+* Room for much more than traceability!
 
 [![Program](http://alliance.praqma.com/gatherings/)<!-- .element class="plain max"-->](http://alliance.praqma.com/gatherings/)<!-- .element target="_blank" -->
 
@@ -141,11 +141,13 @@ __Coordinated traceability efforts__<!-- .element class="fragment" -->
 
 __Managed DevOps offering Mission Control and Orbit__<!-- .element class="fragment" -->
 
-__Upcoming new small tools like PlusBump, Emily's git viz tool__<!-- .element class="fragment" -->
+__Upcoming things like PlusBump, ASK__<!-- .element class="fragment" -->
 
-__New alliance mini site [http://alliance.praqma.com](http://alliance.praqma.com)__<!-- .element class="fragment" -->
+__(Psst - new alliance mini site [http://alliance.praqma.com](http://alliance.praqma.com))__<!-- .element class="fragment" -->
 
 Note:
+
+We will get back to all this later in more details...
 
 Respect and street creds to Kamstrup for funding our Git Phlow changes and the upcoming release of the Jenkins plugin.
 
@@ -293,9 +295,11 @@ So today we're quite many, and you have the change to talk to us and meet us in 
 
 Note:
 
-We see it more like an un-conference, so beside the 3 above Code Alliance progress talks, we have lots of other ready ... and this is also now the time where you can suggest yours!
+Agenda is still open, so beside the 3 above Code Alliance progress talks, we have lots of other ready ... and this is also now the time where you can suggest yours!
 
 What do you want? Speak up.
+
+Should we do dot-voting?
 
 
 >>>>NEWSECTION
@@ -309,6 +313,23 @@ Constitute working groups
 Roadmapping
 
 >>>>NEWSECTION
+
+Soon dinner and beers!
+
+>>>>NEWSLIDE
+
+## Day two Agenda
+
+From 9 AM - 3 PM
+
+* Traceability workshops
+* Other initiatives and sessions
+* **Guided tour in Volve test facilities**
+
+_We start with planning_.
+
+
+>>>>NEWSLIDE
 
 [![Ölrepubliken](res/restaurant.png)](http://olrepubliken.se/)<!-- .element target="_blank" -->
 
