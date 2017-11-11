@@ -48,11 +48,11 @@ _We will continuously improve and form the program. Speak up!_
 
 >>>>NEWSECTION
 
-## State of the Alliance
+## Collaboration in the Alliance
 
 ![logo](../images/new_logo_code_alliance.png)<!-- .element: class="plain  medium" -->
 
-How we work! What’s new? What has changed?
+How we work! That's not new - right?
 
 [http://josra.slack.com](http://josra.slack.com) - join! <!-- .element target="_blank" -->
 
@@ -122,6 +122,12 @@ This is what our Git Phlow is also focussing around. We try to work this way in 
 ![logo](../images/new_logo_code_alliance.png)<!-- .element: class="plain  medium" -->
 
 Status on backlog, pipeline and roadmaps.
+
+
+>>>>NEWSLIDE
+
+![board-of-interest](res/board-of-interest.JPG)<!-- .element: class="plain  medium" -->
+
 
 >>>>NEWSLIDE
 
